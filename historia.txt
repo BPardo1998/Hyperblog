@@ -1,4 +1,6 @@
-Este es un texto 
+Este es un parrafo
 para aprender
+de programación 
 y 
 ser el mejor 
+programador
