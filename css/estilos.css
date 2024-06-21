@@ -7,7 +7,11 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: brown;
+<<<<<<< HEAD
     background-color: rgb(144, 255, 127);
+=======
+    background-color: rgb(208, 255, 127);
+>>>>>>> logo
     width: 90%;
     margin: 0 auto;
     height: 120px;
