@@ -20,3 +20,13 @@ body div{
     font-size: 2rem;
     font-weight: 700;
 }
+footer{
+    background-color: brown;
+    width: 90%;
+    height: 50px;
+}
+footer .pie{
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: 500;
+}
