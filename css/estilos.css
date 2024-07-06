@@ -23,44 +23,4 @@ body div{
     color: blanchedalmond;
     font-size: 2rem;
     font-weight: 700;
-    gap: 0px 20px
-}
-section{
-    position: absolute;
-    height: 200px;
-    background-color: azure;
-
-}
-body .imagen{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-image: url(../Imagenes/dragon.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 48px;
-    height: auto;
-}
-body div h1{
-    display: flex;
-    color: rgb(168, 162, 162);
-    font-size: 35px;
-    width: 200px;
-    font-weight: 600;
-    justify-content: flex-start;
-}
-body div p{
-    display: flex;
-    color: rgb(157, 154, 154);
-    width: 420px;
-    justify-content: flex-start;
-    align-items: center;
-    font-size: 28px;
-    font-weight: 600;
-    left: 20px;
-    
-}
-body span{
-    width: 50px;
 }
