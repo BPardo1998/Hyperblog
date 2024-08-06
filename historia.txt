@@ -7,4 +7,7 @@ programador
 Esta es la histpria de Brandon.
 El esat esperando para aprender muchidimo mas. siguiente clase 
 tengo que aprender mas
+
+EjemPlo de rebase 1
+
 esto es lo que voy  averificar dentro del documento 
