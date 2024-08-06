@@ -10,6 +10,7 @@ tengo que aprender mas
 
 Esta es la información que hay dentro de la rama remaste2
 
+Esta es otra información pero esta vez es de mas informacion dentro de remaste2
 EjemPlo de rebase 1
 
 Esto es actualizar el master, que debe ser lo mas actualizado 
