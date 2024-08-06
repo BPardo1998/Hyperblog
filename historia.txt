@@ -10,4 +10,6 @@ tengo que aprender mas
 
 EjemPlo de rebase 1
 
+Esto es actualizar el master, que debe ser lo mas actualizado 
+
 esto es lo que voy  averificar dentro del documento 
