@@ -8,6 +8,8 @@ Esta es la histpria de Brandon.
 El esat esperando para aprender muchidimo mas. siguiente clase 
 tengo que aprender mas
 
+Esta es la información que hay dentro de la rama remaste2
+
 EjemPlo de rebase 1
 
 Esto es actualizar el master, que debe ser lo mas actualizado 
